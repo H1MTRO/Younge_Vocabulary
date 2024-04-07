@@ -1,0 +1,51 @@
+body {
+    background-color: #ffe5b4;
+
+}
+
+h1{
+    text-align: center;
+    background-color: ;
+}
+
+table {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    border-collapse: separate;
+    border-spacing: 5px;
+    background-color: rgb(85, 165, 235);
+    color: rgb(26, 26, 26);
+    border: 16px solid #rgb(161, 187, 209);
+    border-radius: 20px;
+    margin: 0 auto;
+
+
+th {
+    font-size: 18px;
+    padding: 10px;
+}
+
+td{
+    background-color: #cfcd52;
+    padding: 10px;
+}
+
+ul {
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
